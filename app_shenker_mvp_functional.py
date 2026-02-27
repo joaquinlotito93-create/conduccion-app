@@ -2,6 +2,8 @@
 
 import streamlit as st
 
+st.title("Acceso privado")
+
 PASSWORD = "SaintMichael86"
 
 st.set_page_config(
@@ -130,6 +132,7 @@ for i in range(8):
             current_order,
             permutation
         )
+
 
 
 
