@@ -4,7 +4,7 @@ import streamlit as st
 PASSWORD="SaintMichael86"
 
 st.set_page_config(
-    page_title="Shenker App – Functional Voice Leading MVP",
+    page_title="Shencker App – Functional Voice Leading MVP",
     layout="centered"
 )
 
@@ -129,4 +129,5 @@ for i in range(8):
             current_order,
             permutation
         )
+
 
